@@ -1,6 +1,7 @@
 # Chandler Hass
 # 06 March 2025
 # P1HW2
+# This program is for calculating how much you need to budget for traveling
 
 print('This program calculates and displays travel expenses ')
 budget = int(input('Enter Budget: '))
